@@ -1,0 +1,14 @@
+/* Por minha conta margens a esquerda e a direita da tabela */
+.tab {
+    margin-left:1rem;
+    margin-right:1rem;
+}
+.formupd {
+    margin-left:1rem;
+    margin-right:1rem;
+}
+
+.flexContainer{
+    display:flex;
+    justify-content:space-between;
+}
